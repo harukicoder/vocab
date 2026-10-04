@@ -1,0 +1,7 @@
+{
+    "standard": "hsk-2012",
+    "applies_to": [
+        "hsk_vocab.csv"
+    ],
+    "$comment": "hsk_vocab.csv follows the 2012 HSK examination syllabus (levels 1-6). Since July 2026 the HSK exam follows the 2025 syllabus, which places about half of the words they share at a different level. Identifier from https://github.com/harukicoder/hsk30/blob/main/spec/standards.json (CC0)."
+}
